@@ -23,7 +23,9 @@ O projeto segue na seguinte ordem:
 ### Abaixo estão alguns exemplos de visualisações e descobertas:
 
 **Análise do faturamento:** Gráfico de barras com destaque para as lojas mais e menos lucrativas
+
 **Vendas por categoria:** Gráfico de Linhas montrando crecimento ou queda no faturamento
+
 **Produto mais e menos vendidos:** Gráfico de Pizza desmontrando em porcentagem qual produto e loja mais e mneos vendeu.
 
 Cada seção deve conter: códigos para visualisação de graficos e conclusões, que vão auxiliar na indentificação de oportunidades de melhoria e otimização do negocio. A base para estas informações são  retiradas do notebook disponibilizado pela Alura com as informções das 4 lojas do senhor João.

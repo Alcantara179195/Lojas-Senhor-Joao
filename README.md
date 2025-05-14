@@ -18,9 +18,16 @@ O projeto segue na seguinte ordem:
 3. Média de avaliação das lojas
 4. Produtos mais e menos vendidos
 5. Freete médio por loja
+   
+## Exemplo de graficos e Insights 
+### Abaixo estão alguns exemplos de visualisações e descobertas:
+
+**Análise do faturamento:** Gráfico de barras com destaque para as lojas mais e menos lucrativas
+**Vendas por categoria:** Gráfico de Linhas montrando crecimento ou queda no faturamento
+**Produto mais e menos vendidos:** Gráfico de Pizza desmontrando em porcentagem qual produto e loja mais e mneos vendeu.
 
 Cada seção deve conter: códigos para visualisação de graficos e conclusões, que vão auxiliar na indentificação de oportunidades de melhoria e otimização do negocio. A base para estas informações são  retiradas do notebook disponibilizado pela Alura com as informções das 4 lojas do senhor João.
-O objetivo dessa análise é acessorar o senhor joão e trazer a informação de qual loja tem o meno desempenho comparado as demais, baseado nesses dados desenvolver um relatório para demonstrar qual loja deve ser vendida.
+O objetivo dessa análise é acessorar o senhor joão e trazer a informação de qual loja tem o menor desempenho comparado as demais, baseado nesses dados desenvolver um relatório para demonstrar qual loja deve ser vendida.
 
 ## Intruções para executar o Notebook
  - acessar o trello diponibilizado com 5 tabelas: Ferramentas,Backlog, Desenvolvimento, Pausa, conluido
